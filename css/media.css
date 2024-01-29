@@ -30,6 +30,9 @@
         margin-bottom: 15px;
         width: 100%;
     } 
+    .callback-form .form-controle input::placeholder{
+        font-size: 11px;
+    }
     
     
 }
